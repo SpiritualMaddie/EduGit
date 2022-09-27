@@ -6,7 +6,7 @@ namespace EduGit
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World! Hey hey");
+            Console.WriteLine("Hello World! Hey hey, nytt test");
         }
     }
 }
